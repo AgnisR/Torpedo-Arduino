@@ -2,7 +2,7 @@
 A simple retro torpedo catching arduino game.
 All you need is 3 buttons and an OLED display.
 
-![DSC_0208](https://user-images.githubusercontent.com/35427514/104076792-c9eabc80-521f-11eb-82ad-161690a12c68.JPG)
+![DSC_0210](https://user-images.githubusercontent.com/35427514/104077564-eccaa000-5222-11eb-900e-08aedffa9aae.JPG)
 
 This repo contains two versions of this game. One for SSD1306 and one for SH1106 display chips. 0.96" OLED display will most likely contain SSD1306 and 1.3" will have SH1106 chip.
 
