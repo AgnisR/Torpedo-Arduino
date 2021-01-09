@@ -1,6 +1,7 @@
 # Torpedo-Arduino
 A simple retro torpedo catching arduino game.
 All you need is 3 buttons and an OLED display.
+Defend yourself by catching all the torpedos with the moveable platform. Each 30 points torpedos will level up and get faster. And to make things even more difficult - after 15 points in each level your platform will shrink!
 
 ![DSC_0210](https://user-images.githubusercontent.com/35427514/104077564-eccaa000-5222-11eb-900e-08aedffa9aae.JPG)
 
